@@ -1,45 +1,40 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "PJ Mantoss",
+    "label": "Software Developer",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "email": "joelptoss@gmail.com",
+    "phone": "080-656-51014",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am a Ruby-on-Rails developer with over ten(10) years of combined experience in Broadcasting, Web Design, Teaching, Filmmaking, Sales and Digital Marketing.",
     "location": {
-      "address": "",
+      "address": "157 Aminu Kano Crescent Wuse II",
       "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "city": "Abuja",
+      "countryCode": "NG",
+      "region": "FCT"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "PJMantoss",
+        "url": "https://github.com/PJMantoss"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "pjmantoss",
+        "url": "https://www.linkedin.com/in/pj-mantoss-55a372a3/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "pjmantoss",
+        "url": "https://twitter.com/pjmantoss"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Digital Storytelling",
       "keywords": [
         "Arduino",
         "TI MSP430"
@@ -61,34 +56,39 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "Ruby",
+        "SQL",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "CSS",
+        "Ruby-on-Rails",
+        "React.js",
+        "JQuery",
+        "MaterializeCSS",
+        "Semantic UI",
+        "Bootsrap"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "LinuxOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "VSCode",
+        "Macromedia Fireworks"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "area": "Applied Geology",
+      "studyType": "B.Tech",
+      "startDate": "2004-09",
+      "endDate": "2010-10",
+      "cgpa": "3.00",
       "courses": [
       ]
     }
@@ -121,15 +121,14 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "AIESEC Ukraine",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "position": "Intern",
+      "startDate": "2012-03",
+      "endDate": "2012-06",
+      "summary": "Facilitator on the Green Rush project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Presentation of seminars on ecology/climate change"
       ]
     },
     {
