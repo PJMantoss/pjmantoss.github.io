@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "PJ Mantoss",
-    "label": "Software Developer",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "label": "Web Developer",
+    "picture": "https://techfolios.github.io/template/images/mantoss.jpeg",
     "email": "joelptoss@gmail.com",
     "phone": "080-656-51014",
     "website": "https://pjmantoss.github.io",
@@ -72,11 +72,13 @@
       "name": "Toolsets/OS",
       "level": "Intermediate",
       "keywords": [
-        "LinuxOS",
+        "MacOS",
         "Ubuntu",
         "Git/GitHub",
+        "Slack",
         "VSCode",
-        "Macromedia Fireworks"
+        "Macromedia Fireworks",
+        "Macromedia Flash"
       ]
     }
   ],
@@ -130,7 +132,7 @@
     {
       "company": "Prison Inmate Development Initiative",
       "position": "I.T Officer",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "",
       "startDate": "2012-06",
       "endDate": "2013-07",
       "summary": "Designed the organization's first website",
@@ -149,7 +151,7 @@
       "summary": "Train students privately to prepare them for exams",
       "highlights": [
         "Training for individuals on basic computer operation",
-        "Coaching of 'O' level senior students in Physics, Maths, Chemistry, Biology and Geography for WAEC & NECO exams",
+        "Coaching of 'O' level senior school students in Physics, Maths, Chemistry, Biology and Geography for WAEC & NECO exams",
         "Writing of screenplays for independent film producers and business plans for SMEs"
       ]
     },
@@ -159,7 +161,7 @@
       "website": "https://venussbay.blogspot.com",
       "startDate": "2016-01",
       "endDate": "2018-01",
-      "summary": "Digital PR and web admin",
+      "summary": "Digital PR and web administration",
       "highlights": [
         "Content creation and social media marketing(facebook & twitter)",
         "Web administration and content creation",
@@ -178,12 +180,23 @@
         "Designed and maintains the company's website",
         "Represents the company and prospects for new clients in northern states of Nigeria"
       ]
+    },
+    {
+      "company": "Concordia Luxury Apartments",
+      "position": "Web Designer",
+      "website": "https://concordialuxury.com",
+      "startDate": "2018-05",
+      "endDate": "Present",
+      "summary": "Web Design and administration",
+      "highlights": [
+        "Designed and maintains the company's website"
+      ]
     }
   ],
   "volunteer": [
     {
       "organization": "AIESEC Ukraine",
-      "website": "http://manoa.hawaii.edu/reis",
+      "website": "",
       "position": "Intern",
       "startDate": "2012-03",
       "endDate": "2012-06",
@@ -192,19 +205,6 @@
         "Presentation of seminars on ecology/climate change"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
   ],
   "awards": [
     {
