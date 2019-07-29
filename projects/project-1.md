@@ -37,7 +37,7 @@ byte ADCRead(byte ch)
     return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
 }
 ```
-In the development, I created the app using Rails 5, build a custom authentication system from the scratch, added styling using bootstrap classes, build one-to-many and many-to-many associations, add profile images using gravators and used pagination for listing views.
+In the development, I created the app using Rails 5, build a custom authentication system from the scratch, added styling using bootstrap classes, build one-to-many and many-to-many associations, added profile images using gravators and used pagination for listing views.
 
 You can learn more at the [Alpha Blog Website](https://alpha-blog-mantoss.herokuapp.com).
 Github Repo for [Alpha Blog](https://github.com/PJMantoss/alpha_blog).
