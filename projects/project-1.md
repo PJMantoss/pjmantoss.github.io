@@ -10,7 +10,7 @@ labels:
   - Rails 5
   - Bootstrap
   - Ruby
-summary: An article management app that allows users to sign up,create articles and publish.
+summary: An article management app that allows users to sign up, create and publish articles.
 ---
 
 <div class="ui small rounded images">
