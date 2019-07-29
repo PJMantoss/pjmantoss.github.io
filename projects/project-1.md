@@ -40,6 +40,8 @@ byte ADCRead(byte ch)
 In the development, I created the app using Rails 5, build a custom authentication system from the scratch, added styling using bootstrap classes, build one-to-many and many-to-many associations, add profile images using gravators and used pagination for listing views.
 
 You can learn more at the [Alpha Blog Website](https://alpha-blog-mantoss.herokuapp.com).
+Github Repo for [Alpha Blog](https://github.com/PJMantoss/alpha_blog).
+
 
 
 
