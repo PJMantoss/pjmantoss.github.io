@@ -1,25 +1,25 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/ftracker.jpg
 title: Vacay
-permalink: projects/vacay
+permalink: projects/finance-tracker
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-06-14
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - Rails 5
+  - Devise
+  - Bootstrap
+  - PostgreSQL
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A Stock Tracker social media app.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/ftracker1.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Finance-Tracker app allows new users to register, search, add and monitor stocks in real time. It also has social media functionalities as a user can search for friends who have signed up, see the stocks they are tracking and connect with them.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+It is created with Rails 5. I also used Devise was for building the authentication system and Bootstrap for styling.  
+In this project I gained experience with full-stack web application design and associated technologies, including [PostgreSQL](https://www.postgresql.org/) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, Devise for building authentication system and iex-ruby-client for retrieving stock quotes. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Learn more <a href="https://github.com/PJMantoss/finance-tracker"><i class="large github icon"></i>Here</a>
