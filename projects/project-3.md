@@ -1,61 +1,26 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/uniapp.jpg
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-07-01
 labels:
-  - Lisp
+  - Rails 5
+  - MaterializeCSS
+  - PostgreSQL
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: A tech University app for student enrollment.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/uniapp2.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/uniapp1.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The tech university app is for managing students' enrollments for courses. It allows the students of the fictional Tech University to enroll for a course by signing up and adding courses to their portal. Registered students can view other students and the courses they are offering. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+I build this app using Rails 5 and MaterializeCSS as front-end. This project gave me an opportunity to increase my understanding of Rails 5 MVC structure, naming conventions, how the root route works and many-to-many associations. I also learnt how to use Partials and perform CRUD operations from the back-end.
 
-<hr>
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Learn more About the App: <a href="https://github.com/PJMantoss/univ_app"><i class="large github icon "></i>Here</a>
 
