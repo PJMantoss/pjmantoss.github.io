@@ -12,9 +12,10 @@ labels:
   - GitHub
 summary: A React app that finds Github users.
 ---
-
+<div class="ui small rounded images">
 <img class="ui image" src="{{ site.baseurl }}/images/gfinder2.jpg">
 <img class="ui image" src="{{ site.baseurl }}/images/gfinder1.jpg">
+</div>
 
 
 
