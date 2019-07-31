@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/uniapp.jpg
-title: Cotton
+title: University App
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-01
