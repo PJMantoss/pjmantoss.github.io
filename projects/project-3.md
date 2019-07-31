@@ -14,8 +14,10 @@ labels:
 summary: A tech University app for student enrollment.
 ---
 
+<div class="ui small rounded images">
 <img class="ui image" src="{{ site.baseurl }}/images/uniapp2.jpg">
 <img class="ui image" src="{{ site.baseurl }}/images/uniapp1.jpg">
+</div>
 
 The tech university app is for managing students' enrollments for courses. It allows the students of the fictional Tech University to enroll for a course by signing up and adding courses to their portal. Registered students can view other students and the courses they are offering. 
 
