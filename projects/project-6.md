@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/choredoor.jpg
+image: images/chore-door.jpg
 title: Chore Door
 permalink: projects/choredoor
 # All dates must be YYYY-MM-DD format!
