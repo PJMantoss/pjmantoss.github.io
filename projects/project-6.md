@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/chore-door.jpg
+image: images/choredoor.jpg
 title: Chore Door
-permalink: projects/choredoor
+permalink: projects/chore-door
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-01
 labels:
