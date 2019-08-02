@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/choredoor.jpg
 title: Chore Door
-permalink: projects/finance-tracker
+permalink: projects/choredoor
 # All dates must be YYYY-MM-DD format!
-date: 2019-06-14
+date: 2019-04-01
 labels:
   - HTML
   - CSS
