@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/pianokeys.jpg
 title: Piano Keys
-permalink: projects/alphablog
+permalink: projects/piano-keys
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-01
 labels:
