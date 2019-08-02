@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ftracker.jpg
 title: Finance Tracker
-permalink: projects/financetracker
+permalink: projects/finance-tracker
 # All dates must be YYYY-MM-DD format!
 date: 2019-06-14
 labels:
