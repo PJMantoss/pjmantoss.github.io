@@ -11,7 +11,7 @@ labels:
   - Normalize CSS
   - Devise
   - Github
-summary: A Microblogging and social networking app.
+summary: A Microblogging and social networking app(tumblr look-alike).
 ---
 
 <div class="ui small rounded images">
