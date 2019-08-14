@@ -11,7 +11,7 @@ labels:
   - Bootstrap
   - Ruby
   - Github
-summary: A photo and video sharing social networking app.
+summary: An Instagram look-alike.A photo and video sharing social networking app.
 ---
 
 <div class="ui small rounded images">
