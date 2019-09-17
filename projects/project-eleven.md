@@ -21,7 +21,7 @@ summary: A task management app(todoist replica).
 </div>
 
 
-You can learn more at the [Hiptime Website]().
+You can learn more at the [Hiptime Website](https://hiptime-mantoss.herokuapp.com/).
 Github Repo for [Hiptime](https://github.com/PJMantoss/hiptime).
 
 
