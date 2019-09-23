@@ -6,7 +6,7 @@
     "email": "joelptoss@gmail.com",
     "phone": "080-656-51014",
     "website": "https://pjmantoss.github.io",
-    "summary": "Hello! I'm a full stack web developer with over ten(10) years of combined experience in Broadcasting, Web Design, Teaching, Filmmaking, Content Creation, Sales and Digital Marketing.",
+    "summary": "I'm a full stack web developer with over ten(10) years of experience in Web Technology, Teaching, Content Creation and Digital Marketing. I use React and Ruby on Rails. But I am also good with SQL, vanilla Javascript, HTML and CSS. I have certifications in Database Administration (OCA DBA 11G) from Oracle University and Digital Marketing from Google.",
     "location": {
       "address": "157 Aminu Kano Crescent Wuse II",
       "postalCode": "900271",
@@ -62,6 +62,7 @@
         "Ruby-on-Rails",
         "React.js",
         "JQuery",
+        "TDD with RSpec",
         "MaterializeCSS",
         "Semantic UI"
       ]
@@ -143,19 +144,6 @@
       ]
     },
     {
-      "company": "Self",
-      "position": "Private Teacher/Freelance writer",
-      "website": "",
-      "startDate": "2013-09",
-      "endDate": "Present",
-      "summary": "Train students privately to prepare them for exams",
-      "highlights": [
-        "Training for individuals on basic computer operation",
-        "Coaching of 'O' level senior school students in Physics, Maths, Chemistry, Biology and Geography for WAEC & NECO exams",
-        "Writing of screenplays for independent film producers and business plans for SMEs"
-      ]
-    },
-    {
       "company": "Venussbay LTD (E-Magazine)",
       "position": "Communication Assistant",
       "website": "https://venussbay.blogspot.com",
@@ -208,16 +196,16 @@
   ],
   "certification": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "OCA DBA 11G",
+      "date": "2011-08",
+      "awarder": "Oracle University, USA",
+      "summary": "Certified Associate in SQL and Oracle Database Administration"
     },
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "Google Certified Digital Marketer",
+      "date": "2018-10",
+      "awarder": "Google",
+      "summary": "Proficiency in Web Content Creation, SEO, Search Engine and Social Media Marketing"
     }
   ],
   "references": [
