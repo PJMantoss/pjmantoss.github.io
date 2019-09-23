@@ -18,7 +18,7 @@ summary: A Task management app.
   <img class="ui image" src="../images/todo1.jpg">
 </div>
 
-Todo is a web based tool for organizing creating and tasks. 
+Todo is a web based tool for organizing and creating tasks. 
 
 It is created with React JS.
 
