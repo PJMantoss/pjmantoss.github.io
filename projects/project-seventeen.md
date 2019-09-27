@@ -18,7 +18,7 @@ summary: A Chat Application.
   <img class="ui image" src="../images/chat1.jpg">
 </div>
 
-Toss Chat is a chat application build with React JS and Chatkit API. It's styled with CSS
+Toss Chat is a chat application built with React JS and Chatkit API. It's styled with CSS
 
 You can learn more at the [Toss Chat Website]().
 Github Repo for [Toss Chat](https://github.com/PJMantoss/toss_chat).
