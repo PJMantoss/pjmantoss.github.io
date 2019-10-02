@@ -9,7 +9,7 @@ date: 2019-10-02
 labels:
   - HTML
   - CSS Grid
-summary: A responsive web page made with HTML and CSS Grid..
+summary: A responsive Image Grid page.
 ---
 
 <div class="ui small rounded images">
