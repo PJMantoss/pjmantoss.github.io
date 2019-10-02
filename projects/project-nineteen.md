@@ -19,5 +19,5 @@ summary: A responsive Image Grid page.
 
 This is a beautiful responsive Image Grid web page made with HTML and CSS Grid.
 
-You can learn more at the [Animated Form Website](https://pjmantoss.github.io/imageGrid/).
-Github Repo for [Animated Form](https://github.com/PJMantoss/imageGrid).
+You can learn more at the [Image Grid Website](https://pjmantoss.github.io/imageGrid/).
+Github Repo for [Image Grid](https://github.com/PJMantoss/imageGrid).
