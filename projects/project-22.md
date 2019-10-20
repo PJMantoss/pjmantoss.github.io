@@ -21,5 +21,5 @@ summary: A Netflix Look-alike home page.
 
 This is a React UI build to resemble netflix landing page. It returns data from the TMDB API. It is build with React and styled with CSS.
 
-[Github Repo for Netflix Home](https://github.com/PJMantoss/netflix_home).
-Visit the [Netflix Home Website](https://netflix-by-mantoss.netlify.com/).
+[Github Repo](https://github.com/PJMantoss/netflix_home) for Netflix Home.
+Or visit the [Netflix Home Website](https://netflix-by-mantoss.netlify.com/).
