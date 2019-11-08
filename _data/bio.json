@@ -56,13 +56,15 @@
       "keywords": [
         "Ruby",
         "SQL",
-        "Javascript",
+        "Javascript(ES6)",
         "HTML",
         "CSS",
         "Ruby-on-Rails",
         "React.js",
         "JQuery",
         "TDD with RSpec",
+        "Material-UI",
+        "Bootstrap",
         "MaterializeCSS",
         "Semantic UI"
       ]
@@ -90,26 +92,15 @@
       "studyType": "B.Tech",
       "startDate": "2004-09",
       "endDate": "2010-10",
-      "cgpa": "3.00",
+      "cgpa": "3.07",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "Bauchi Radio Corporation-94.6FM",
-      "position": "Presenter/Scriptwriter",
-      "website": "",
-      "startDate": "2006-07",
-      "endDate": "2008-03",
-      "summary": "Presentation of radio magazine programmes",
-      "highlights": [
-        "Responsible for the creation, scripting and presentation of three radio programmes",
-      ]
-    },
-    {
       "company": "Progenics Corp LTD",
-      "position": "Trainee",
+      "position": "Junior DBA/Trainee",
       "website": "",
       "startDate": "2008-07",
       "endDate": "2009-04",
@@ -132,7 +123,7 @@
     },
     {
       "company": "Prison Inmate Development Initiative",
-      "position": "I.T Officer",
+      "position": "Web Developer(Frontend)/I.T Officer",
       "website": "",
       "startDate": "2012-06",
       "endDate": "2013-07",
@@ -159,7 +150,7 @@
     },
     {
       "company": "Adoly Integrated Systems LTD",
-      "position": "Web Designer/Sales Representative",
+      "position": "Web Developer/Sales Representative",
       "website": "https://adolysys.com",
       "startDate": "2018-07",
       "endDate": "Present",
@@ -171,7 +162,7 @@
     },
     {
       "company": "Concordia Luxury Apartments",
-      "position": "Web Designer",
+      "position": "Web Developer(Frontend)",
       "website": "https://concordialuxury.com",
       "startDate": "2018-05",
       "endDate": "Present",
