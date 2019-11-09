@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/prjct.jpg
 title: Project Mgt
-permalink: projects/project-mgt
+permalink: projects/projectmgt
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-26
 labels:
