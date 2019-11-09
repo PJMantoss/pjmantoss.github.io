@@ -20,7 +20,7 @@ summary: An instagram-like app for image editing(still in development).
 
 Tosstagram is an image enhancement app built with React and CSS. It's still in development. Visit the site to see how it works.
 
-You can learn more at the [tosstagram Website](https://tosstagram.netlify.com/).
+Visit [tosstagram Website](https://tosstagram.netlify.com/).
 Github Repo for [tosstagram](https://github.com/PJMantoss/tosstagram).
 
 
