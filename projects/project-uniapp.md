@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/uniapp.jpg
 title: University App
-permalink: projects/cotton
+permalink: projects/uniapp
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-01
 labels:
