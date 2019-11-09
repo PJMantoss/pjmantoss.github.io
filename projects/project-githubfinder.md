@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/gfinder.jpg
 title: Github Finder
-permalink: projects/github-finder
+permalink: projects/githubfinder
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-15
 labels:
