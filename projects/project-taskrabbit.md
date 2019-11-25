@@ -22,5 +22,5 @@ summary: TaskRabbit.com look-alike, for creating and organizing several tasks.
 This is a taskrabbit.com and craiglist inspired project. It's built for creating, organizing and keeping track of progress on tasks based on preset categories.
 
 You can learn more at the [Task Rabbit Website](https://taskrabbit-by-pj.herokuapp.com/).
-[Github Repo](https://github.com/PJMantoss/rabbit) for Task Rabbit.
 
+<a href="https://github.com/PJMantoss/rabbit"><i class="large github icon "></i>Github</a>
