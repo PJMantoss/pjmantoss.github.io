@@ -22,4 +22,4 @@ The Finance-Tracker app allows new users to register, search, add and monitor st
 It is created with Rails 5. I also used Devise was for building the authentication system and Bootstrap for styling.  
 In this project I gained experience with full-stack web application design and associated technologies, including [PostgreSQL](https://www.postgresql.org/) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, Devise for building authentication system and iex-ruby-client for retrieving stock quotes. 
  
-Learn more <a href="https://finance-tracker-mantoss.herokuapp.com/users/sign_in">Here</a> <a href="https://github.com/PJMantoss/finance-tracker"><i class="large github icon"></i>Github Repo</a>
+Learn more <a href="https://finance-tracker-mantoss.herokuapp.com/users/sign_in">Finance Tracker website</a> <a href="https://github.com/PJMantoss/finance-tracker"><i class="large github icon"></i>Github Repo</a>
