@@ -21,4 +21,3 @@ This is a project management app that is meant for planning, organizing and trac
 In this project I gained more experience with full-stack web application design and associated technologies including [PostgreSQL](https://www.postgresql.org/) for database storage and Bootstrap-Sass CSS Framework for the user interface.
  
 Learn more on the [Project Mgt Website](https://projectmanager-by-pj.herokuapp.com/) and <a href="https://github.com/PJMantoss/project_mgt"><i class="large github icon"></i>Github Repo</a>
-
