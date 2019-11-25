@@ -24,5 +24,6 @@ The tech university app is for managing students' enrollments for courses. It al
 I built the app using Rails 5 and MaterializeCSS as front-end. This project gave me an opportunity to increase my understanding of Rails 5 MVC structure, naming conventions, how the root route works and many-to-many associations. I also learnt how to use Partials and perform CRUD operations from the back-end.
 
 
-Learn more About the App: <a href="https://mantoss-univ-app.herokuapp.com/">Here</a> <a href="https://github.com/PJMantoss/univ_app"><i class="large github icon "></i>Github</a>
+Learn more About the App: <a href="https://mantoss-univ-app.herokuapp.com/">Here</a> 
 
+<a href="https://github.com/PJMantoss/univ_app"><i class="large github icon "></i>Github</a>
