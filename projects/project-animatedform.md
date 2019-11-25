@@ -21,4 +21,5 @@ summary: An Animated Login Form.
 This web application is a simple Animated login form created with React.js, CSS and ReactCSSTransitionGroup.
 
 You can learn more at the [Animated Form Website](https://animated-form-by-pj.netlify.com/).
-[Github Repo](https://github.com/PJMantoss/login_form) for Animated Form.
+
+<a href="https://github.com/PJMantoss/login_form"><i class="large github icon"></i>Github Repo</a>
