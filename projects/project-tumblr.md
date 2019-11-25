@@ -21,9 +21,6 @@ summary: A Microblogging and social networking app(tumblr look-alike).
 
 Tumblr is a microblogging and social networking app. Inspired by the famous tumblr, it's built with Rails 5, Devise and Normalize CSS.
 
- [Tumblr Website](https://tumblr-mantoss.herokuapp.com/).
-Github Repo for [Tumblr](https://github.com/PJMantoss/tumblr).
-
-
-
-
+[Tumblr Website](https://tumblr-mantoss.herokuapp.com/).
+ 
+<a href="https://github.com/PJMantoss/tumblr"><i class="large github icon "></i>Github</a>
