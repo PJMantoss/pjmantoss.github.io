@@ -19,4 +19,6 @@ summary: A React app that finds Github users.
 
 This is a React app that searches for Github users. The app uses the Context API along with the useContext and useReducer hooks for state management.
 
-Learn more About Github Finder: <a href="https://github.com/PJMantoss/github-finder"><i class="large github icon "></i>Here</a>
+[Use Github Finder](https://githubfinderapp2019.netlify.com/).
+
+<a href="https://github.com/PJMantoss/github-finder"><i class="large github icon "></i>Github</a>
