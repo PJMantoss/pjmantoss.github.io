@@ -10,7 +10,7 @@ labels:
   - React
   - CSS
   - Github
-summary: An instagram-like app for image editing(still in development).
+summary: An instagram-like app for image editing.
 ---
 
 <div class="ui small rounded images">
@@ -18,7 +18,7 @@ summary: An instagram-like app for image editing(still in development).
   <img class="ui image" src="../images/tosstagram2.jpg">
 </div>
 
-Tosstagram is an image enhancement app built with React and CSS. It's still in development. Visit the site to see how it works.
+Tosstagram is an image enhancement app built with React and CSS. Visit the site to see how it works.
 
 Visit [tosstagram Website](https://tosstagram.netlify.com/).
 
