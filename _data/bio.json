@@ -54,15 +54,14 @@
       "name": "Languages and Frameworks",
       "level": "Intermediate",
       "keywords": [
-        "Ruby",
-        "SQL",
         "Javascript(ES6)",
+        "Ruby",
         "HTML",
         "CSS",
-        "Ruby-on-Rails",
         "React.js",
-        "JQuery",
+        "Ruby-on-Rails",
         "TDD with RSpec",
+        "PostgreSQL",
         "Material-UI",
         "Bootstrap",
         "MaterializeCSS",
@@ -75,13 +74,13 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
+        "Git",
+        "GitHub",
         "Heroku",
         "Netlify",
         "Slack",
         "VSCode",
-        "Macromedia Fireworks",
-        "Macromedia Flash"
+        "Macromedia Fireworks"
       ]
     }
   ],
