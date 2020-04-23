@@ -20,6 +20,6 @@ summary: A random quote machine.
 
 Quote app is a random quote machine built with React JS and styled with CSS.
 
-Visit [tosstagram Website](https://pjmantoss.github.io/quote_app/).
+Visit [Quote App Website](https://pjmantoss.github.io/quote_app/).
 
 <a href="https://github.com/PJMantoss/quote_app"><i class="large github icon "></i>Github</a>
