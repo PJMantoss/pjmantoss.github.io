@@ -3,7 +3,7 @@
 layout: project
 type: project
 image: images/huddle.jpg
-title: Huddle(Landing Page)
+title: Huddle Landing Page
 permalink: projects/huddle
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-06
