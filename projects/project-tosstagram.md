@@ -10,7 +10,7 @@ labels:
   - React
   - CSS
   - Github
-summary: An instagram-like app for image editing.
+summary: An instagram-like app for image filtering.
 ---
 
 <div class="ui small rounded images">
