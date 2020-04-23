@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/quote.png
+image: images/quote.jpg
 title: Quote App
 permalink: projects/quoteapp
 # All dates must be YYYY-MM-DD format!
@@ -14,8 +14,8 @@ summary: A random quote machine.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/quote.png">
-  <img class="ui image" src="../images/quote2.png">
+  <img class="ui image" src="../images/quote.jpg">
+  <img class="ui image" src="../images/quote2.jpg">
 </div>
 
 Quote app is a random quote machine built with React JS and styled with CSS.
