@@ -3,7 +3,7 @@
 layout: project
 type: project
 image: images/bgame.jpg
-title: 2D Breakout Game
+title: Breakout Game (2D)
 permalink: projects/breakoutgame
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-28
