@@ -21,6 +21,6 @@ summary: A mobile responsive landing page.
 
 A mobile responsive landing page with curved sections built with HTML and CSS.
 
-Visit [tosstagram Website](https://huddlelanding-page.netlify.app/).
+Visit [huddle Website](https://huddlelanding-page.netlify.app/).
 
 <a href="https://github.com/PJMantoss/huddle_landing_pg"><i class="large github icon "></i>Github</a>
