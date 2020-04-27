@@ -10,7 +10,7 @@ labels:
   - React
   - TV Maze API
   - Material-UI
-summary: A movies and tv shows search web app.
+summary: A movies/TV shows search app.
 ---
 
 <div class="ui small rounded images">
