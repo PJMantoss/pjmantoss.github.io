@@ -11,7 +11,7 @@ labels:
   - HTML
   - Bootstrap
   - Github
-summary: A simple issue tracker built with vanilla JavaScript and Bootstrap.
+summary: A simple, mobile responsive issue tracker.
 ---
 
 <div class="ui small rounded images">
