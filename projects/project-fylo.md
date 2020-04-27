@@ -10,7 +10,7 @@ labels:
   - HTML
   - CSS
   - Github
-summary: A mobile responsive landing page with HTML and CSS.
+summary: A mobile responsive landing page.
 ---
 
 <div class="ui small rounded images">
