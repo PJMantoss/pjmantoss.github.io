@@ -11,7 +11,7 @@ labels:
   - CSS
   - Bootstrap
   - Netlify
-summary: An e-commerce UI designed with HTML, Bootstrap and CSS.
+summary: A mobile responsive e-commerce UI.
 ---
 
 <div class="ui small rounded images">
