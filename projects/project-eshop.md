@@ -1,0 +1,26 @@
+---
+layout: project
+type: project
+image: images/eshop.jpg
+title: E-Shop
+permalink: projects/eshop
+# All dates must be YYYY-MM-DD format!
+date: 2020-04-08
+labels:
+  - React JS
+  - CSS
+  - Stripe
+  - Github
+summary: A client side online store.
+---
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/eshop.jpg">
+  <img class="ui image" src="../images/eshop2.jpg">
+</div>
+
+E-Shop is a client side online store built with React, Stripe and the React Hooks API.
+
+Visit [huddle Website](https://pjmantoss.github.io/e-shop/#/).
+
+<a href="https://github.com/PJMantoss/e-shop"><i class="large github icon "></i>Github</a>
