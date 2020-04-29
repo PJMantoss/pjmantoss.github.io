@@ -9,7 +9,7 @@ date: 2020-04-08
 labels:
   - React JS
   - CSS
-  - Stripe
+  - Stripe API
   - Github
 summary: A client side online store.
 ---
@@ -19,7 +19,7 @@ summary: A client side online store.
   <img class="ui image" src="../images/eshop2.jpg">
 </div>
 
-E-Shop is a client side online store built with React, Stripe and the React Hooks API.
+E-Shop is a client side online store built with React JS, Stripe API and styled with CSS.
 
 Visit [huddle Website](https://pjmantoss.github.io/e-shop/#/).
 
