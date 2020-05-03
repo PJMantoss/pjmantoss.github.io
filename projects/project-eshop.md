@@ -11,7 +11,7 @@ labels:
   - CSS
   - Stripe API
   - Github
-summary: A client side online store.
+summary: A client side online store with React and Stripe.
 ---
 
 <div class="ui small rounded images">
