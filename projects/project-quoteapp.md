@@ -1,25 +1,27 @@
 ---
 layout: project
 type: project
-image: images/quote.jpg
-title: Quote App
-permalink: projects/quoteapp
+image: images/weather.jpg
+title: Weather App
+permalink: projects/weatherapp
 # All dates must be YYYY-MM-DD format!
-date: 2020-03-27
+date: 2020-05-02
 labels:
-  - React
+  - HTML
   - CSS
+  - Vanilla JavaScript
+  - openWeather API
   - Github
-summary: A random quote machine.
+summary: A weather app built with vanilla JavaScript and openWeather API.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/quote.jpg">
-  <img class="ui image" src="../images/quote2.jpg">
+  <img class="ui image" src="../images/weather.jpg">
+  <img class="ui image" src="../images/weather2.jpg">
 </div>
 
-Quote app is a random quote machine built with React JS and styled with CSS.
+A weather app built with vanilla JavaScript and openWeather API. It is styled with CSS
 
-Visit [Quote App Website](https://pjmantoss.github.io/quote_app/).
+Visit [Quote App Website](https://pjmantoss.github.io/weather-app-js/).
 
-<a href="https://github.com/PJMantoss/quote_app"><i class="large github icon "></i>Github</a>
+<a href="https://github.com/PJMantoss/weather-app-js"><i class="large github icon "></i>Github</a>
