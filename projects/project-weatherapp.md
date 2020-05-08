@@ -12,7 +12,7 @@ labels:
   - Vanilla JavaScript
   - openWeather API
   - Github
-summary: A weather app built with vanilla JavaScript and openWeather API.
+summary: An app that displays weather of cities in real time.
 ---
 
 <div class="ui small rounded images">
@@ -22,6 +22,6 @@ summary: A weather app built with vanilla JavaScript and openWeather API.
 
 A weather app built with vanilla JavaScript and openWeather API. It is styled with CSS
 
-Visit [Quote App Website](https://pjmantoss.github.io/weather-app-js/).
+Visit [The Website](https://pjmantoss.github.io/weather-app-js/).
 
 <a href="https://github.com/PJMantoss/weather-app-js"><i class="large github icon "></i>Github</a>
