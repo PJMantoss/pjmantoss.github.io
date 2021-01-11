@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/speedgame.png
+image: images/speedgame.jpg
 title: Speed Typing Game
 permalink: projects/speedtypinggame
 # All dates must be YYYY-MM-DD format!
@@ -15,8 +15,8 @@ summary: A React game that tells you how fast you type.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/speedgame.png">
-  <img class="ui image" src="../images/speedgame2.png">
+  <img class="ui image" src="../images/speedgame.jpg">
+  <img class="ui image" src="../images/speedgame2.jpg">
 </div>
 
 Speed Typing Game let's you know how fast you type. It's build with React Functional components, React Hooks and styled with CSS. The project is one of the Challenges I solved in Scrimba's Frontend Developer Career Path course.
