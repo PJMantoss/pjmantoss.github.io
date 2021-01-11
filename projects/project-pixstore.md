@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pixstore.png
+image: images/pixstore.jpg
 title: Pix Store
 permalink: projects/pixstore
 # All dates must be YYYY-MM-DD format!
@@ -14,8 +14,8 @@ summary: A mock e-commerce site built with React.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/pixstore.png">
-  <img class="ui image" src="../images/pixstore2.png">
+  <img class="ui image" src="../images/pixstore.jpg">
+  <img class="ui image" src="../images/pixstore2.jpg">
 </div>
 
 Pix Store is a mock e-commerce site built with React. The idea is for users to visit the site, look at the available pictures, choose some of them to be printed so that they can order them to be printed and shipped to them. Images on the list can be favorited or added to the cart and then on the cart page, a user can see the images he added and then proceed to place his/her order or remove some of the items he/she does not want anymore. On the cart page a user can also the individual and total cost of the pictures he/she selected.
