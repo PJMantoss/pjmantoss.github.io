@@ -11,7 +11,7 @@ labels:
   - CSS
   - React Hooks
   - Github
-summary: A React game that let's you know how fast you type.
+summary: A React game that tells you know how fast you type.
 ---
 
 <div class="ui small rounded images">
