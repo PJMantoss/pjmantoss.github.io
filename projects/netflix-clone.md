@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/moviesearch.jpg
-title: Movie Search App
-permalink: projects/moviesearch
+image: images/netflix.jpg
+title: Netflix Clone
+permalink: projects/netflix
 # All dates must be YYYY-MM-DD format!
-date: 2020-11-24
+date: 2020-12-25
 labels:
   - React Hooks
   - React Router
@@ -15,8 +15,8 @@ summary: A Netflix look-alike built with React..
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/moviesearch.jpg">
-  <img class="ui image" src="../images/moviesearch2.jpg">
+  <img class="ui image" src="../images/netflix.jpg">
+  <img class="ui image" src="../images/netflix2.jpg">
 </div>
 
 Netflix Clone is a Netflix look alike built with React.
