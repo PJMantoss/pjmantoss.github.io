@@ -5,7 +5,7 @@ image: images/moviesearch.jpg
 title: Movie Search App
 permalink: projects/moviesearch
 # All dates must be YYYY-MM-DD format!
-date: 2019-10-07
+date: 2020-11-24
 labels:
   - React
   - TMDB API
