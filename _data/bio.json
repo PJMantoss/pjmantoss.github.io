@@ -6,10 +6,10 @@
     "email": "pjmantoss@hotmail.com",
     "phone": "080-656-51014",
     "website": "https://pjmantoss.github.io",
-    "summary": "Hi! I love creating web applications with HTML, CSS, JavaScript and React JS. Whenever I'm not coding, I'm reading or writing a screenplay.",
+    "summary": "Hello and welcome to my corner! I make softwares. I've written thousands of lines of clean, quality codes, implemented dozens of designs in figma and zeplin into HTML/CSS/jQuery and React most of which have been deployed to production with thousands of users such as the intelligent e-mail assistant - Lavender. I love coding because it gives me freedom. Freedom to create, live and work from anywhere on Earth. Whenever I'm not coding, I'm reading a thriller or writing a screenplay.",
     "location": {
       "address": "Wuse II",
-      "postalCode": "900271",
+      "postalCode": "00176-0000",
       "city": "Abuja",
       "countryCode": "NG",
       "region": "FCT"
@@ -39,20 +39,15 @@
       ]
     },
     {
-      "name": "Ruby on Rails",
+      "name": "MERN Stack",
       "keywords": [
       ]
     },
     {
-      "name": "Node JS",
+      "name": "Filmmaking",
       "keywords": [
       ]
-    },
-    {
-      "name": "Cloud Engineering",
-      "keywords": [
-      ]
-    },
+    }
   ],
   "skills": [
     {
@@ -63,11 +58,10 @@
         "CSS",
         "JavaScript(ES6)",
         "React.js",
+        "jQuery",
         "Netlify",
-        "Material-UI",
         "Bootstrap",
-        "MaterializeCSS",
-        "Semantic UI"
+        "MaterializeCSS"
       ]
     },
     {
@@ -101,7 +95,7 @@
   "work": [
     {
       "company": "Progenics Corp LTD",
-      "position": "Junior DBA/Trainee",
+      "position": "Trainee",
       "website": "",
       "startDate": "2008-07",
       "endDate": "2009-04",
@@ -124,7 +118,7 @@
     },
     {
       "company": "Prison Inmate Development Initiative",
-      "position": "Web Developer(Frontend)/I.T Officer",
+      "position": "I.T Officer",
       "website": "",
       "startDate": "2012-06",
       "endDate": "2013-07",
@@ -162,14 +156,28 @@
       ]
     },
     {
-      "company": "Concordia Luxury Apartments",
-      "position": "Web Developer(Frontend)",
-      "website": "https://concordialuxury.com",
+      "company": "Coded Suite",
+      "position": "Web Designer",
+      "website": "https://codedsuite.com/",
       "startDate": "2018-05",
       "endDate": "Present",
       "summary": "Web Design and administration",
       "highlights": [
         "Designed and maintains the company's website"
+      ]
+    },
+    {
+      "company": "Lavender",
+      "position": "Frontend Development Intern",
+      "website": "https://www.trylavender.com/",
+      "startDate": "2020-07",
+      "endDate": "Present",
+      "summary": "Implementation of UI designs for browser extension",
+      "highlights": [
+        "Implementation of UI designs (zeplin & figma) for Lavender's Google Chrome extension, user dashboard and billing page using HTML/CSS/jQuery",
+        "Patching of Bugs",
+        "Testing of app with Selenium WebDriver",
+        "Manual QA"
       ]
     }
   ],
@@ -198,12 +206,31 @@
       "date": "2018-10",
       "awarder": "Google",
       "summary": "Proficiency in Web Content Creation, SEO, Search Engine and Social Media Marketing"
+    },
+    {
+      "title": "Responsive Web Design",
+      "date": "2020-01",
+      "awarder": "freeCodeCamp",
+      "summary": "Proficient in designing and developing Web pages that look good on all devices"
+    },
+    {
+      "title": "Scrum Fundamentals Certified",
+      "date": "2020-07",
+      "awarder": "SCRUMStudy",
+      "summary": "Proficient in the agile framework for developing, delivering and sustaining complex software products"
+    },
+    {
+      "title": "The Frontend Developer Career Path",
+      "date": "2020-12",
+      "awarder": "Scrimba",
+      "summary": "Proficiency in HTML/CSS, JavaScript, APIs, React, Web Architecture, Responsive Design, UI Design, Git"
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "William M. Ballance",
+      "reference": "CEO - Lavender",
+      "email": "wmb@sorter.com"
     }
   ]
 }
