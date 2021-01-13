@@ -38,6 +38,6 @@ ROADBLOCK ENCOUNTERED: I had difficulty getting and displaying the individual da
 
 SOLUTION: To solve the problem I used the forEach() array method to iterate through the beer object data from the Punk API and display them in a new div container (built in JavaScript). The new div has a child div with a span to hold a beer image and the required information.
 
-To learn more visit <a href="https://github.com/PJMantoss/netflix-clone"><i class="large github icon "></i>Github</a>
+To learn more visit <a href="https://github.com/PJMantoss/beer-app"><i class="large github icon "></i>Github</a>
 
-[Netflix Clone Website](https://pjmantoss.github.io/netflix-clone/).
+[Beer App Website](https://pjmantoss.github.io/beer-app/).
