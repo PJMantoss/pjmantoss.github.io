@@ -11,7 +11,7 @@ labels:
   - Styled Components(CSS in JS)
   - Firebase
   - Docker
-summary: A university admin dashboard for managing courses(under construction).
+summary: A university admin dashboard for managing courses (under construction).
 ---
 
 <div class="ui small rounded images">
