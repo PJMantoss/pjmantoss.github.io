@@ -24,6 +24,7 @@ Netflix Clone is a Netflix look alike built with React.
 It's my final project in the Frontend Developer Career Path bootcamp.
 
 TECH OVERVIEW
+
   - React Hooks
   - React Router
   - Styled Components(CSS in JS)
@@ -36,6 +37,7 @@ This project is a complex app that uses many of React features that I've learnt 
 1ST STEP: I designed the architecture of the app by organizing the directories that would be used in the app. The directories are COMPONENTS, CONTAINERS, CONSTANTS, CONTEXT, FIXTURES, HELPERS, HOOKS, PAGES and UTILS.
 
 2ND STEP: I installed the following dependencies using yarn.
+
   - yarn add react-router-dom
   - yarn add styled-components
   - yarn add normalize.css
