@@ -137,8 +137,8 @@
       "endDate": "2018-01",
       "summary": "Digital PR and web administration",
       "highlights": [
-        "Content creation and social media marketing(facebook & twitter)",
-        "Web administration and content creation",
+        "Content creation and social media management(facebook & twitter)",
+        "Web administration",
         "Writing of press releases, articles and proposals",
         "Conducting interviews"
       ]
@@ -176,7 +176,7 @@
       "highlights": [
         "Implementation of UI designs (zeplin & figma) for Lavender's Google Chrome extension, user dashboard and billing page using HTML/CSS/jQuery",
         "Patching of Bugs",
-        "Testing of app with Selenium WebDriver",
+        "Testing of app with Selenium IDE",
         "Manual QA"
       ]
     }
@@ -190,9 +190,9 @@
       "endDate": "2012-06",
       "summary": "Facilitator in the Green Rush project",
       "highlights": [
-        "Presentation of seminars on ecology/climate change"
+        "Presentation of seminars on ecology/climate change to high school and college students"
       ]
-    },
+    }
   ],
   "certification": [
     {
