@@ -22,9 +22,9 @@ This is one of the challenge projects in the Frontend Developer Career Path prog
 
 TECH OVERVIEW
 
-HTML/CSS
-Async/Await
-OfficialJoke API
+  - HTML/CSS
+  - Async/Await
+  - OfficialJoke API
 
 I started the project by firts building the structure of the site, creating a main section to hold a joke, punchline, getPunchline button and newJoke button, and a Footer section. Then I styled all the elements using CSS.
 
