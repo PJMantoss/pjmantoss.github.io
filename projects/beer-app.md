@@ -24,9 +24,9 @@ This project was part of the Frontend Developer Career Path program at Scrimba. 
 
 TECH OVERVIEW
 
-HTML/CSS
-JavaScript (Async/Await)
-Punk API
+  - HTML/CSS
+  - JavaScript (Async/Await)
+  - Punk API
 
 I started by building out the structure of the app (HTML), creating div containers for filters and cards to hold the beer data (Image, Name, Alcohol volume and Hoppiness), pagination buttons and footer.
 
