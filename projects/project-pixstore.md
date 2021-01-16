@@ -28,7 +28,7 @@ In the context file I created a custom component that renders the provider of th
 
 Still in the context file, inside a useEffect hook, I imported JSON data of the photos information from an API using fetch and saved the data in a state. Then using the data in the context state I map over it in the photos page and display the images.
 
-CHALLENGES: The major challenge I experienced was how to display a favorite-icon and a add-to-cart icon when a user hovers over an image. 
+CHALLENGE: The major challenge I experienced was how to display a favorite-icon and a add-to-cart icon when a user hovers over an image. 
 
 SOLUTION: To solve this I created a Hovered state(a boolean) and tracked it in the Image component.
 
