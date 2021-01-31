@@ -10,8 +10,7 @@ labels:
   - React Router
   - Styled Components(CSS in JS)
   - Firebase
-  - Docker
-summary: A university admin dashboard for managing courses (under construction).
+summary: A university admin dashboard for managing courses.
 ---
 
 <div class="ui small rounded images">
@@ -29,7 +28,6 @@ TECHNOLOGIES OVERVIEW
   - React Router
   - Styled Components(CSS in JS)
   - Firebase (Authentication)
-  - Docker
 
 DESIGN PATTERN: Compound Components - a design pattern in React in which a component is composed of a subset of child components that all work in tandem to produce some functionality.
 
@@ -51,24 +49,6 @@ yarn add styled-components
 
 yarn add normalize.css
 
-RUN DOCKER IMAGE
-
-sudo docker run reactimage
-
-OPEN A NEW TERMINAL WINDOW
-
-run sudo docker ps (inside the new terminal)
-
-run sudo docker exec -it [CONTAINER ID] sh (replace CONTAINER ID with the actual values displayed in previous step. Type it in without the angle brackets []).
-
-type ls after /app # and press enter to see contents of container
-
-run npm start
-
-when asked whether you'd like to run app on another port, type y
-
-Open another terminal tab/window to start project
-
 START THE PROJECT
 
 yarn start
@@ -79,4 +59,4 @@ yarn test
 
 To learn more see codes at <a href="https://github.com/PJMantoss/university-admin"><i class="large github icon "></i>Github</a>
 
-[University Admin Website](#).
+[University Admin Website](https://pjmantoss.github.io/university-admin/#/).
