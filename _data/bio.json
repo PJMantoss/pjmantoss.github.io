@@ -6,7 +6,7 @@
     "email": "pjmantoss@hotmail.com",
     "phone": "080-656-51014",
     "website": "https://pjmantoss.github.io",
-    "summary": "Hello and welcome to my corner! I make softwares. I've written thousands of lines of clean, quality codes, implemented dozens of designs in figma and zeplin into HTML/CSS/jQuery and React, most of which have been deployed to production with thousands of users such as the intelligent e-mail assistant - Lavender. I love coding because it gives me freedom. Freedom to create, live and work from anywhere on Earth. Whenever I'm not coding, I'm reading a thriller or writing a screenplay.",
+    "summary": "Hello and welcome to my corner! I've written thousands of lines of clean, quality codes, implemented dozens of designs in figma and zeplin into HTML/CSS/jQuery and React, most of which have been deployed to production with thousands of users such as the intelligent e-mail assistant - Lavender. I love coding because it gives me freedom. Freedom to create, live and work from anywhere on Earth. Whenever I'm not coding, I'm reading a thriller or writing a screenplay.",
     "location": {
       "address": "Wuse II",
       "postalCode": "00176-0000",
@@ -34,7 +34,7 @@
   },
   "interests": [
     {
-      "name": "Artificial Intelligence(AI)",
+      "name": "Web Development",
       "keywords": [
       ]
     },
@@ -60,23 +60,20 @@
         "React.js",
         "jQuery",
         "Netlify",
+        "SASS",
         "Bootstrap",
-        "MaterializeCSS"
+        "Firebase(Cloud Firestore & Authentication)"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "Intermediate",
       "keywords": [
-        "Linux",
         "Ubuntu",
         "Git",
         "GitHub",
-        "Heroku",
-        "Netlify",
         "Slack",
-        "VSCode",
-        "Macromedia Fireworks"
+        "VSCode"
       ]
     }
   ],
@@ -229,8 +226,7 @@
   "references": [
     {
       "name": "William M. Ballance",
-      "reference": "CEO - Lavender",
-      "email": "wmb@sorter.com"
+      "reference": "CEO - Lavender (wmb@sorter.com)"
     }
   ]
 }
