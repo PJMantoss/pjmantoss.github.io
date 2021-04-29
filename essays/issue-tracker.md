@@ -10,7 +10,7 @@ labels:
   - JavaScript
 ---
 
-<img class="ui medium center" src="../images/tracker2.jpg">
+<img class="ui medium center" src="../images/issue-tracker2.jpg">
 
 ## How to Build an Issue Tracker Dashboard with Appsmith (Tutorial):
 
